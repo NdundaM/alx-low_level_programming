@@ -7,6 +7,7 @@
 
 int  main(void)
 {
-	puts("\"programming is like building a multilingual puzzle,");
+	fprintf( stderr, "anything\n" );
+	puts("\"programming is like building a multilingual puzzle");
 	return (0);
 }
