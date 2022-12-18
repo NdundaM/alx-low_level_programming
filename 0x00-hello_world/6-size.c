@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main.c - Entry point
  *
  * Return: Alwasys 0 (success)
  */
