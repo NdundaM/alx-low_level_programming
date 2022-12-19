@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Entry point. Prints the size of various types
  *
  * Return: Alwasys 0 (success)
  */
